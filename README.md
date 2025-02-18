@@ -34,7 +34,7 @@
     <h1>Sale Items</h1>
     <div class="product-grid">
         <div class="product">
-            <img src="product1.jpg" alt="Product 1">
+            <img src="Pictures/Logos/Queendom.jpg" alt="Product 1">
             <h2>Product 1</h2>
             <p>$20.00</p>
             <button>Buy Now</button>
